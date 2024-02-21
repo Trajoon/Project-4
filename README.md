@@ -45,5 +45,4 @@ The deadline for submitting the project is 2024 Feb 25 at 9:59 AM
 - Have an enjoyable coding journey!
 
 <br></br>
-<br></br>
 **Embark on your coding journey with confidence, Best of luck!**
