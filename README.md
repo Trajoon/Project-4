@@ -21,6 +21,8 @@ Create a News App by applying the provided UI design from the Figma link and inc
 - Apply the BLoC pattern to manage state and business logic efficiently.
 <br></br>
 
+### UI to be implemented:  [Figma Link](https://www.figma.com/file/R854MgoP1kYI6T1k3QO6ja/News-Feed-App-%E2%80%93-UI-Design-(Community)?type=design&node-id=1-2&mode=design&t=uWvtFdHriFePdzvO-0)
+
 ## Submission Guidelines
 You will submit your project on GitHub by following these guidelines:
 
@@ -33,8 +35,6 @@ You will submit your project on GitHub by following these guidelines:
 **Note:** 
 - Be sure to include screenshots of your work.
     - Add and organize the screenshots in your README file in your project
-<br></br>
-**UI to be implemented:**  [Figma Link](https://www.figma.com/file/R854MgoP1kYI6T1k3QO6ja/News-Feed-App-%E2%80%93-UI-Design-(Community)?type=design&node-id=1-2&mode=design&t=uWvtFdHriFePdzvO-0)
 <br></br>
 
 ## Deadline 
