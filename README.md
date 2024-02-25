@@ -1,48 +1,10 @@
 # Project-4
 
-## Description
 
-Create a News App by applying the provided UI design from the Figma link and incorporating various functionalities to enhance the user experience. The app should allow users to browse, search, filter, save, remove, and update news articles, among other features.
-<br></br>
 
-## Functionalities to Implement:
-1. Display news articles on the main screen.
-2. Show detailed information when a user selects a news article.
-3. Enable users to search for news articles by title.
-4. Allow users to filter news articles by field (e.g., technology, AI, cybersecurity).
-5. Enable users to save specific news articles for later viewing.
-6. Allow users to remove news articles from their saved list.
-7. Provide the functionality to update the content of news articles.
-<br></br>
-
-## Technological Requirements:
-- Utilize the provided JSON data file to retrieve news articles.
-- Implement a Model structure to manage the data.
-- Apply the BLoC pattern to manage state and business logic efficiently.
-<br></br>
-
-### UI to be implemented:  [Figma Link](https://www.figma.com/file/R854MgoP1kYI6T1k3QO6ja/News-Feed-App-%E2%80%93-UI-Design-(Community)?type=design&node-id=1-2&mode=design&t=uWvtFdHriFePdzvO-0)
-
-## Submission Guidelines
-You will submit your project on GitHub by following these guidelines:
-
-1. Fork the Repository & Clone it
-2. Create a New Branch with your name, in this format: (First name - Last name).
-3. Commit the changes frequently and push it
-4. Finally, create a pull request to the original repository
-<br></br>
-
-**Note:** 
-- Be sure to include screenshots of your work.
-    - Add and organize the screenshots in your README file in your project
-<br></br>
-
-## Deadline 
-The deadline for submitting the project is 2024 Feb 25 at 9:59 AM
-<br></br>
-## Additional Notes
-- Reach out for clarification or assistance if needed.
-- Have an enjoyable coding journey!
-
-<br></br>
-**Embark on your coding journey with confidence, Best of luck!**
+![Screenshot_1708828510](https://github.com/Trajoon/Project-4/assets/153893124/70217455-189c-4510-ac4b-61464c4afabd)
+![Screenshot_1708828519](https://github.com/Trajoon/Project-4/assets/153893124/454c1c97-b628-406c-a02f-16c3c0812741)
+![Screenshot_1708828693](https://github.com/Trajoon/Project-4/assets/153893124/adb68d5a-b40b-4b06-843a-c879f7bb4491)
+![Screenshot_1708828698](https://github.com/Trajoon/Project-4/assets/153893124/796eb033-9b53-49de-8ae1-e441046b08ef)
+![Screenshot_1708828596](https://github.com/Trajoon/Project-4/assets/153893124/a52d4306-82e4-4d3d-a6b7-ccadc7e72a0f)
+![Screenshot_1708828674](https://github.com/Trajoon/Project-4/assets/153893124/5fd02d59-8844-4c08-84f1-f88d607236d3)
